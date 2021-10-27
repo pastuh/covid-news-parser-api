@@ -1,0 +1,17 @@
+{
+  "name": "covid-news-parser-api",
+  "version": "1.0.0",
+  "description": "API based on Ania Kubow video tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  }
+}
